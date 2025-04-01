@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# 40 Hz Healing Hub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A website dedicated to showcasing 40 Hz gamma frequency stimulation audio inspired by MIT research. This one-page website presents a collection of YouTube videos featuring audio designed to support brain health and relaxation.
 
-## Available Scripts
+## Project Overview
 
-In the project directory, you can run:
+The 40 Hz Healing Hub is a React-based website that features:
 
-### `npm start`
+- Scientific information about 40 Hz gamma frequency stimulation research
+- A curated collection of YouTube videos with 40 Hz audio
+- Modern and elegant design that reflects the therapeutic nature of the content
+- Smooth animations and responsive layout for all devices
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Scientific Background
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The website highlights MIT research on 40 Hz gamma frequency stimulation, which has shown potential benefits for brain health, particularly in Alzheimer's patients. The audio combines 40 Hz pulses with calming sounds to create a relaxing experience.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Engaging Header Section**: Captures attention with a clean, science-inspired visual and clear headline
+- **About Section**: Explains the science behind 40 Hz stimulation and its potential benefits
+- **Video Collection**: Showcases YouTube videos in a visually appealing grid layout
+- **Modern Design**: Uses a professional color palette with blue tones, smooth animations, and contemporary typography
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React with TypeScript
+- Tailwind CSS for styling
+- Framer Motion for animations
+- Font Awesome for icons
+- React-Scroll for smooth scrolling navigation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To run this project locally:
 
-### `npm run eject`
+```bash
+# Install dependencies
+npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Start development server
+npm start
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Build for production
+npm run build
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Acknowledgments
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Inspired by MIT research on 40 Hz gamma frequency stimulation
+- PLOS ONE paper (DOI: 10.1371/journal.pone.0278413)
