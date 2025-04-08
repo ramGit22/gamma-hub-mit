@@ -85,7 +85,7 @@ const About: React.FC = () => {
                     rel="noopener noreferrer"
                     className="text-primary hover:underline ml-1"
                   >
-                    PLOS ONE paper (DOI: 10.1371/journal.pone.0278413)
+                    PLOS ONE paper (DOI: 10.1371/journal.pone.0278412)
                   </a>
                 </p>
               </div>
