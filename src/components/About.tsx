@@ -80,7 +80,7 @@ const About: React.FC = () => {
                 <p className="text-sm text-text-medium">
                   Read more about the research:
                   <a
-                    href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278413"
+                    href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9714926/pdf/pone.0278412.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-primary hover:underline ml-1"
